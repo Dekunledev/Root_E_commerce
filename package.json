@@ -1,0 +1,24 @@
+{
+  "name": "rootEcommerce",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./root.js"
+  },
+  "keywords": [],
+  "author": "Dekunledev",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "dotenv": "^16.0.3",
+    "express": "^4.17.1",
+    "flutterwave-node-v3": "^1.0.12",
+    "got": "^12.5.3",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^6.9.0",
+    "uuid": "^9.0.0",
+    "validator": "^13.6.0"
+  }
+}
